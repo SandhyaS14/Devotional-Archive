@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(skyblue 0%, pink 100%);
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.buttons {
+    border-radius: 25px;
+    background-color: royalblue;
+    margin: 5px;
+    color: black;
+    height: 25px;
+    font-size: medium;
+}

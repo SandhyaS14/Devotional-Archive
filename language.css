@@ -1,0 +1,24 @@
+.buttons {
+    border-radius: 25px;
+    background-color: royalblue;
+    margin: 5px;
+    color: black;
+    height: 25px;
+    font-size: medium;
+}
+
+hr {
+    width: 100px;
+    border-width: 2px;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+body {
+    background: linear-gradient(skyblue 0%, pink 100%);
+    background-repeat: no-repeat;
+    height: 800px;
+}
