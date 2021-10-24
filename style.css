@@ -1,19 +1,16 @@
 body {
     background: linear-gradient(skyblue 0%, pink 100%);
     background-repeat: no-repeat;
+    height: 800px;
 }
 
-button {
-    border-radius: 25px;
-    background-color: royalblue;
-    margin: 5px;
-    color: black;
-    height: 25px;
-    width: 150px;
-    font-size: large;
-    padding: 5px;
+.buttons {
+    height: 35px;
+    display: inline-block;
+    padding-bottom: 10px !important;
+    margin: 10px;
+    font-size: large !important;
 }
-
 h1 {
     text-align: center; 
  }
